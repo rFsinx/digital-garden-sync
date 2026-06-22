@@ -47,7 +47,7 @@ $$
 $$
 
 
-
+&nbsp;
 
 
 # Iterated Operations
@@ -68,7 +68,7 @@ $$
 when n=1, their notations are excluded
 
 
-
+&nbsp;
 
 
 # Number Systems
@@ -96,7 +96,7 @@ $$
 $$ \text{numbers in the number line that is not rational} \quad (\text{e.g., } \pi = 3.141592 \dots ) $$
 
 
-
+&nbsp;
 
 
 # Proportions
@@ -116,7 +116,7 @@ $$
 $$ \frac{\text{area}}{\text{radius}^2} = \frac{\text{circumference}}{\text{radius}} = \pi = 3.141592 \dots \qquad (\text{radius} > 0)$$
 
 
-
+&nbsp;
 
 
 # Decimal System
