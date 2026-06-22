@@ -20,7 +20,7 @@ $$ x \times n \xrightarrow{\div n} x \quad (n \neq 0) $$
 $$ x \div n \quad \text{and} \quad x \times \frac{1}{n} \quad \text{are equal statements}$$
 
 
-
+&nbsp;
 
 
 # Algebraic Axioms
