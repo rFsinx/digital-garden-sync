@@ -99,32 +99,6 @@ $$ \text{numbers in the number line that is not rational} \quad (\text{e.g., } \
 
 
 
-# Law of Exponents
-
-acts as a definition $\implies$ unprovable
-a, m, n are real numbers (a>0)
-$\times$ and $\cdot$ are interchangeable (multiplication symbol can be ommited)
-
-$$
-\begin{align}
-& a^m a^n = a^{m+n} \qquad \frac{a^m}{a^n} = a^{m-n}\\
-\\
-& (a^m)n = a^{mn} \qquad (ab)^n = a^n b^n\\
-\end{align}
-$$
-### use
-$$
-\begin{align}
-& \frac{a^n}{a^n} = 1 \quad \therefore a^0 = 1 \\
-\\
-& \frac{1}{a} \cdot \frac{1}{b} = a^{-1} \cdot b^{-1} = (ab)^{-1} \quad \therefore \frac{1}{a} \cdot \frac{1}{b} = \frac{1}{ab}
-\end{align}
-$$
-
-
-
-
-
 # Proportions
 
 a, b are real numbers (b, d ≠ 0)
