@@ -12,28 +12,23 @@ body {
     //  }
 
 
-    body, 
-    html, 
-    .sidebar, 
-    .sidebar-container, 
-    .right-sidebar, 
-    main, 
-    .content, 
-    .embedded-note 
+    :root, body, html, [data-theme="dark"] 
     {
-        background-color: #000000 !important;
-        background: #000000 !important;
+    --background-body: #000000 !important;
+    --background-sidebar: #000000 !important;
+    --background-sidebars: #000000 !important;
+    --bg-color: #000000 !important;
+    
+    --text-normal: #ffffff !important;
+    --text-title: #ffffff !important;
+    --text-muted: #aaaaaa !important;
     }
 
-    a, h1, h2, h3, h4, p, span, li, footer 
+    .sidebar, .sidebar-container, .right-sidebar, main, .content, .embedded-note, .site-body 
     {
-        color: #ffffff !important;
+    background-color: #000000 !important;
+    background: #000000 !important;
     }
 
-    .search-button, input 
-    {
-    background-color: #111111 !important;
-    color: #ffffff !important;
-    }
 
 }
