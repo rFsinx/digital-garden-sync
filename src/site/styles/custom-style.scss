@@ -10,4 +10,15 @@ body {
     //  h1 {
     //   color: black;
     //  }
+
+    body, html, .sidebar, .content, main, .node-insert 
+    {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+    }
+
+    a, h1, h2, h3, h4, p, span, li, .search-button, input
+    {
+    color: #ffffff !important;
+    }
 }
